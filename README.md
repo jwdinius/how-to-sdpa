@@ -1,6 +1,6 @@
 # How-to SDPA with Cmake
 
-_I have been frustrated in past attempts to get SDPA to play nicely with Cmake, so I'm sharing this stub so that others might not experience similar problems._
+_I have been frustrated in past attempts to get SDPA to play nicely with Cmake, so I'm sharing this stub so that others might not experience similar problems.  I took the_ `libexample` _folder that comes with the aptitude package_ `libsdpa-dev` _in Ubuntu Bionic 18.04 and created a CMake workflow to build the examples._
 
 ## Steps
 * [Install Docker](https://docs.docker.com/install/)
