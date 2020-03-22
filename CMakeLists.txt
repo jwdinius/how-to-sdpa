@@ -27,3 +27,6 @@ target_link_libraries(example5 ${SDPA_LIBRARIES})
 
 add_executable(example6 ${CMAKE_SOURCE_DIR}/src/example6.cpp)
 target_link_libraries(example6 ${SDPA_LIBRARIES})
+
+add_executable(example1_wikipedia ${CMAKE_SOURCE_DIR}/src/example1_wikipedia.cpp)
+target_link_libraries(example1_wikipedia ${SDPA_LIBRARIES})
